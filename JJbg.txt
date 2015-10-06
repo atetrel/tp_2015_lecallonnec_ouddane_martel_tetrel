@@ -1,1 +1,6 @@
-Je suis un beau gosse
+Je suis un beau gosse:
+
+git pull sert à récup les données
+git add nomdufichier sert a ajouter un fichier ou un fichier modifié
+git commit -m "mettre commentaire" sert à passer au stage
+git push nom nombranche ser à mettre en ligne
